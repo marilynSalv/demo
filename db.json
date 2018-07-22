@@ -1,6 +1,7 @@
 {
   "medications": [
-    { "LabelNumber": 1343, "Name": "Medication 1", "DoctorName": "Stephen Strange" }
-    { "LabelNumber": 1495, "Name": "Medication 2", "DoctorName": "Stephen Strange" }
+    { "LabelNumber": 1343, "Name": "Medication 1", "DoctorName": "Stephen Strange" },
+    { "LabelNumber": 1495, "Name": "Medication 2", "DoctorName": "Stephen Strange" },
+    { "LabelNumber": 1355, "Name": "Medication 3", "DoctorName": "Stephen Strange" }
   ]
 }
