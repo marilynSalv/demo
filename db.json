@@ -1,14 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "medications": [
+    { "LabelNumber": 1343, "Name": "Medication 1", "DoctorName": "Stephen Strange" }
+    { "LabelNumber": 1495, "Name": "Medication 2", "DoctorName": "Stephen Strange" }
+  ]
 }
