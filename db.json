@@ -1,7 +1,8 @@
-{
-  "medications": [
-    { "LabelNumber": 1343, "Name": "Medication 1", "DoctorName": "Stephen Strange" },
-    { "LabelNumber": 1495, "Name": "Medication 2", "DoctorName": "Stephen Strange" },
-    { "LabelNumber": 1355, "Name": "Medication 3", "DoctorName": "Stephen Strange" }
+{ 
+    "medications": [
+    { "Rx": 4757490, "Name": "ABC", "Qty": 25,"Instructions": "Take with water", "Description": "Heavy medication, may cause sleepiness", "Symptoms": "Indigestion", "DoctorName": "Dr. Stephen Strange", "ExpirationDate": "07/20/2019" },
+    { "Rx": 4584839, "Name": "XYZ", "Qty": 30,"Instructions": "Take with water", "Description": "Heavy medication, may cause irration", "Symptoms": "Upset stomach, heartburn", "DoctorName": "Dr. Stephen Strange", "ExpirationDate": "12/10/2018" }
+	
   ]
+  
 }
