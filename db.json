@@ -1,7 +1,7 @@
 { 
     "medications": [
-    { "Rx": 4757490, "Name": "ABCD", "Qty": 25,"Instructions": "Take with water", "Description": "Heavy medication, may cause sleepiness", "Symptoms": "Indigestion", "DoctorName": "Dr. Stephen Strange", "ExpirationDate": "07/20/2019" },
-    { "Rx": 4584839, "Name": "XYZ", "Qty": 30,"Instructions": "Take with water", "Description": "Heavy medication, may cause irration", "Symptoms": "Upset stomach, heartburn", "DoctorName": "Dr. Stephen Strange", "ExpirationDate": "12/10/2018" }
+    { "Rx": 4757490, "Name": "ABC", "Qty": 25,"Instructions": "Take with water", "Description": "Heavy medication, may cause sleepiness", "Symptoms": "Indigestion", "DoctorName": "Dr. Stephen Strange", "ExpirationDate": "2014-03-12T13:37:27+00:00" },
+    { "Rx": 4584839, "Name": "XYZ", "Qty": 30,"Instructions": "Take with water", "Description": "Heavy medication, may cause irration", "Symptoms": "Upset stomach, heartburn", "DoctorName": "Dr. Stephen Strange", "ExpirationDate": "2014-03-12T13:37:27+00:00" }
 	
   ]
   
